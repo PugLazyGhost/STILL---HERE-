@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add your live sitemap URL after GitHub Pages is enabled:
+# Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
